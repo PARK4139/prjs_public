@@ -1,0 +1,154 @@
+"______________________________________________________________________________________________________________________________ "2023 04 05 22 21 37 
+"______________________________________________________________________________________________________________________________ "AI_youtube.bat 
+https://www.youtube.com/watch?v=bAO35g75YVM
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
+https://www.youtube.com/watch?v=kxnzUgtfzqc
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
+https://www.youtube.com/watch?v=ojhhYfZntho
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
+https://www.youtube.com/watch?v=rZ2k2OKOtvA
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
+https://www.youtube.com/watch?v=vQJPI5EWucE
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
+https://www.youtube.com/watch?v=wF_YXcxzhD8
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
+https://www.youtube.com/watch?v=wK4qMGi1hlo
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
+https://www.youtube.com/watch?v=XW48Tty4qy4
+______________________________________________________  error id 2023 02 18 16 28 s
+Traceback (most recent call last):
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 73, in <module>
+    ydown(str(sys.argv[i]) +'[TRIED_TO_DOWNLOAD]')
+  File "E:\PRJS_PRIVATE\.mislile_server\AI_youtube.py", line 36, in ydown
+    yt.streams.filter(adaptive=True, file_extension="mp4", only_video=True)
+    ^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 296, in streams
+    return StreamQuery(self.fmt_streams)
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 176, in fmt_streams
+    stream_manifest = extract.apply_descrambler(self.streaming_data)
+                                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\WIN10PROPC3\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytube\__main__.py", line 161, in streaming_data
+    return self.vid_info['streamingData']
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'streamingData'
+______________________________________________________  error id 2023 02 18 16 28 e
